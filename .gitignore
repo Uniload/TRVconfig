@@ -25,6 +25,7 @@ Content/System/*
 Content/Web/*
 
 Program/Bin/*
+Program/Bin/Script.ini
 !Program/Bin/*.ini
 !Program/Bin/T2FlagHud.u
 !Program/Bin/PingHud.u
